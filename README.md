@@ -1,5 +1,5 @@
 # PyBer  Analysis
-The purpose of this project is to analyze PyBer ride-sharing data for each city type. Pandas & Matplotlib are used in this project.
+The purpose of this training project is to analyze PyBer ride-sharing data for each city type. Pandas & Matplotlib are used in this project.
 
 There are two data resources csv formats; city data  & ride data. First of all, we made pandas DataFrame of each resources by the below code;
 
